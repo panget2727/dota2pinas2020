@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style1.css">
+	<title>DOTA 2 PINAS 2020</title>
+	<header><h1>DOTA 2 PINAS 2020</h1></header>
 
-You can use the [editor on GitHub](https://github.com/panget2727/dota2pinas2020/edit/panget.pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</head>
+<body>
+	
 
-```markdown
-Syntax highlighted code block
+	<input type="checkbox" id="check">
+    <label for="check">
+      <i class="fas fa-bars" id="btn"></i>
+      <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+    <header>Dota 2 Pinas 2020</header>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  <ul>
+<li><a href="#"><i class="fas fa-qrcode"></i>Ricky Moran</a></li>
+<li><a href="#"><i class="fas fa-link"></i>Facebook Group</a></li>
+<li><a href="#"><i class="fas fa-stream"></i>Support</a></li>
+<li><a href="#"><i class="fas fa-calendar-week"></i>Events</a></li>
+<li><a href="#"><i class="far fa-question-circle"></i>About</a></li>
+<li><a href="tournament.html"><i class="fas fa-sliders-h"></i>back to main page</a></li>
+<li><a href="#"><i class="far fa-envelope"></i>Message</a></li>
+</ul>
+</div>
+<section></section>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ <!--Insert Video Here-->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br><br><video class="Ricky" width="500" controls="">
 
-### Jekyll Themes
+		<source src="ne bracket sytem.mp4" type="video/mp4">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/panget2727/dota2pinas2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	</video><br><br> <video width="500" controls="">
+		<source src="new introduction.mp4" type="video/mp4">
 
-### Support or Contact
+	</video><br><br><br>
+	
+	<!--End Of The Video Here-->
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!--Sentence Here!!-->
+	<p>Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a "hero", who all have unique abilities and differing styles of play. During a match players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's "Ancient", a large structure located within their base.</p><br><br>
+
+<p>Development of Dota 2 began in 2009 when IceFrog, lead designer of Defense of the Ancients, was hired by Valve to create a modernized remake for them in the Source game engine. It was released for Microsoft Windows, OS X, and Linux via the digital distribution platform Steam in July 2013, following a Windows-only open beta phase that began two years prior. The game is fully free-to-play with no heroes or any other gameplay element needing to be bought or otherwise unlocked. To maintain it, Valve supports the game as a service, selling loot boxes and a battle pass subscription system called Dota Plus that offer non-gameplay altering virtual goods in return, such as hero cosmetics and audio replacement packs. The game has also been updated with various other features since release, such as a port to the Source 2 engine and support for virtual reality.</p><br><br>
+
+<p>Dota 2 has a large esports scene, with teams from around the world playing in various professional leagues and tournaments. Valve manages an event format known as the Dota Pro Circuit, which are a series of tournaments that award qualification points for earning direct invitations to The International, the game's premier annual tournament. Internationals feature a crowdfunded prize money system that has seen amounts in upwards of US$30 million, making Dota 2 the most lucrative esports game. Media coverage of most tournaments is done by a selection of on-site staff who provide commentary and analysis for the ongoing matches, similar to traditional sporting events. In addition to playing live to audiences in arenas and stadiums, broadcasts of them are also streamed over the internet, and sometimes simulcast on television networks, with peak viewership numbers in the millions.</p><br><br>
+
+<p>Despite some criticism going towards its steep learning curve and overall complexity, Dota 2 was praised for its rewarding gameplay, production quality, and faithfulness to its predecessor, with many considering it to be one of the greatest video games of all time. It has been one of the most played games on Steam since its release, with over a million concurrent players at its peak. The popularity of the game has led to official merchandise for it being produced, including apparel, accessories, and toys, as well as promotional tie-ins to other games and media. The game also allows for the community to create their own gamemodes, maps, and cosmetics, which are uploaded to the Steam Workshop. Two spinoff games, Artifact and Dota Underlords, were also released by Valve. Dota 2 has also been used in machine learning experiments, with a team of bots known as the OpenAI Five showing the capability to defeat professional players.</p1><br> <br><br>
+<!--End Of The Sentence Here-->
+
+
+</body>
+</html>
